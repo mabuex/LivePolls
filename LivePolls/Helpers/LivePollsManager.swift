@@ -38,8 +38,6 @@ final class LivePollsManager {
         }
     }
     
-    var existingPoll: Poll? = nil
-    
     var polls = [Poll]()
     var inProgress: Bool {
         if case .inProgress = viewState {
