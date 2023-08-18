@@ -1,5 +1,5 @@
 # LivePolls
-A SwiftUI realtime polling app using Supabase as backend. Loosely based on [Coding with Alfian Realtime Polls App with Firebase](https://www.youtube.com/watch?v=OiPfDZTldMo) 
+A SwiftUI realtime polling app using Supabase as backend.
 
 ## SQL
 
@@ -42,3 +42,12 @@ returns void as $$
   end;
 $$ 
 language plpgsql;
+```
+
+## Credits
+
+- [Coding with Alfian Realtime Polls App with Firebase](https://www.youtube.com/watch?v=OiPfDZTldMo)
+
+## License
+
+This repo is licensed under MIT.
